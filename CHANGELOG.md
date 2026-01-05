@@ -1,3 +1,6 @@
+## 4.7.2
+* Remove Android READ_MEDIA_IMAGES/READ_MEDIA_VIDEO permissions. The previous had bugs.
+
 ## 4.7.1
 * Remove Android READ_MEDIA_IMAGES/READ_MEDIA_VIDEO permissions.
 
